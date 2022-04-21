@@ -13,7 +13,7 @@
 11. ch11 - Bridge  
 12. ch12 - Strategy  
 13. ch13 - Composite  
-14. ch14 - Decotator  
+14. ch14 - Decorator  
 15. ch15 - Visitor  
 16. ch16 - Chain of Responsibility  
 17. ch17 - Facade  
