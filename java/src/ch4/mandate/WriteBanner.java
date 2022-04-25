@@ -1,4 +1,7 @@
-package ch4;
+package ch4.mandate;
+
+import ch4.Banner;
+import ch4.Writer;
 
 public class WriteBanner implements Writer {
     private Banner banner;

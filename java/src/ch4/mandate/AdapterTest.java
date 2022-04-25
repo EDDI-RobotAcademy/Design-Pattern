@@ -1,6 +1,8 @@
-package ch4;
+package ch4.mandate;
 
-public class WriterTest {
+import ch4.Writer;
+
+public class AdapterTest {
     public static void main(String[] args) {
         Writer p = new WriteBanner("Hello");
         p.writeWeak();
