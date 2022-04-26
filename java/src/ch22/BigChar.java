@@ -11,7 +11,7 @@ public class BigChar {
     public BigChar(char charname) {
         this.charname = charname;
         try {
-            String filename = "big" + charname + ".txt";
+            String filename = "src/ch22/bigtext/big" + charname + ".txt";
             StringBuilder sb = new StringBuilder();
             for (String line: Files.readAllLines(Path.of(filename))) {
                 sb.append(line);
